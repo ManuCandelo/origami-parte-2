@@ -1,0 +1,50 @@
+*{
+    font-family: Varela Round;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:#cda8d4;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+}
+body{
+    margin: 0px;
+    /* modifique a cor de fundo aqui*/
+    background-color:#cda8d4;
+    
+}
+
+.bodyimg{
+ color:#efecec
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid #d3cbcb;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    /* modifique a margem e o preenchimento aqui*/
+    padding: 40px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami h3{
+ color:rgb(147, 6, 202)
+}
